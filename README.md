@@ -30,4 +30,4 @@ gulp
 
 ## Screencapture
 
-![Gulp Bootstrap 4](https://github.com/dzinemon/gulp-sass-bootstrap4/gulp-bootstrap.png "Screencapture of Gulp Bootstrap 4 Template")
+![Gulp Bootstrap 4](https://github.com/dzinemon/gulp-sass-bootstrap4/src/assets/gulp-bootstrap.png "Screencapture of Gulp Bootstrap 4 Template")
